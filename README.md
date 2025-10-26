@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Abraham Mayowa Oluwasina
 
-<!--
-**AbrahamMayowa/AbrahamMayowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Engineer** with 5+ years of experience building scalable systems and infrastructure.  
+My work focuses on designing reliable backend architectures, distributed systems, and Kubernetes-based deployments.
 
-Here are some ideas to get you started:
+### 💻 Technical Focus
+- **Backend Engineering:** Node.js, Go (Golang), TypeScript, NestJS  
+- **Infrastructure & DevOps:** Kubernetes, Docker, Kafka, Prometheus, Grafana  
+- **Databases:** PostgreSQL, Redis  
+- **Cloud & Tools:** AWS, GitHub Actions, Helm, Linux Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 What I’m Currently Working On
+- Designing Kubernetes operators and controllers  
+- Improving observability and distributed tracing in backend services  
+- Researching best practices for scalable service orchestration  
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abraham-oluwasina-3bb1a1161/)
+
+---
+
+> “Build systems that are not just functional, but resilient.”
+
