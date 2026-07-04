@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abraham Mayowa Oluwasina
 
-I'm a **Backend Engineer** with 5+ years of experience building scalable systems and infrastructure.  
+I'm a **Backend Engineer** with 6+ years of experience building scalable systems and infrastructure.  
 My work focuses on designing reliable backend architectures, distributed systems, and Kubernetes-based deployments.
 
 ### 💻 Technical Focus
